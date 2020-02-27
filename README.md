@@ -1,2 +1,0 @@
-# smy
-Krray
